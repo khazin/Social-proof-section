@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/khazin/Social-proof-section](https://github.com/khazin/Social-proof-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://khazin.github.io/Social-proof-section/](https://khazin.github.io/Social-proof-section/)
 
 ## My process
 
